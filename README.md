@@ -12,8 +12,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632)
 
 
-### 📊 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Joerg1632&theme=tokyonight)](https://github.com/Joerg1632)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&hide=makefile,swig&layout=compact&theme=tokyonight)
+<details>
+  <summary>📊 GitHub Stats (click to expand)</summary>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&hide=makefile,swig&layout=compact&theme=tokyonight)
+  
+</details>
 
 </div>
