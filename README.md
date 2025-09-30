@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Joerj  
+# 👋 Hello! I'm Joerg  
 
 Computer Science student from Russia  
 
