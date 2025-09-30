@@ -19,15 +19,15 @@ Computer Science student from Russia
 </details>
 
 <details>
-  <summary>💼 Best projects</summary>
+  <summary>💼 Best Projects</summary>
 
 <div align="left">
 
-| Technology | Projects |
+| Technology / Language | Projects |
 |----------------------|---------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [![GitHub](https://img.shields.io/badge/Project1-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project1) <br> [![GitHub](https://img.shields.io/badge/Project2-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project2) |
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | [![GitHub](https://img.shields.io/badge/Project3-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project3) <br> [![GitHub](https://img.shields.io/badge/Project4-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project4) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | [![GitHub](https://img.shields.io/badge/Project5-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project5) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Joerg1632/Project1) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Joerg1632/Project2) |
+| ![Java](https://img.shields.io/badge/-Java-FB7E1D?style=for-the-badge&logo=java&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Joerg1632/Project3) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Joerg1632/Project4) |
+| ![FastAPI](https://img.shields.io/badge/-FastAPI-9B59B6?style=for-the-badge&logo=fastapi&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Joerg1632/Project5) |
 
 </div>
 </details>
