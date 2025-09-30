@@ -25,11 +25,10 @@ Computer Science student from Russia
 
 | Technology / Language | Projects |
 |----------------------|---------|
-| Python | [![Project1](https://img.shields.io/badge/Project1-Python-3776AB?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project1) <br> [![Project2](https://img.shields.io/badge/Project2-Python-3776AB?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project2) |
-| Java   | [![Project3](https://img.shields.io/badge/Project3-Java-007396?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project3) <br> [![Project4](https://img.shields.io/badge/Project4-Java-007396?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project4) |
-| FastAPI | [![Project5](https://img.shields.io/badge/Project5-FastAPI-009688?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project5) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [![GitHub](https://img.shields.io/badge/Project1-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project1) <br> [![GitHub](https://img.shields.io/badge/Project2-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project2) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | [![GitHub](https://img.shields.io/badge/Project3-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project3) <br> [![GitHub](https://img.shields.io/badge/Project4-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project4) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | [![GitHub](https://img.shields.io/badge/Project5-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project5) |
 
 </div>
 </details>
-
 </div>
