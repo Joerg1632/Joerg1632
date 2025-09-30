@@ -11,7 +11,7 @@ Computer Science student from Russia
 
 <div align="left">
 <details>
-  <summary>📊 GitHub Stats </summary>
+  <summary>📊 Statistics </summary>
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&hide=makefile,swig&layout=compact&theme=tokyonight)
@@ -19,11 +19,11 @@ Computer Science student from Russia
 </details>
 
 <details>
-  <summary>💼 Best Projects</summary>
+  <summary>💼 Best projects</summary>
 
 <div align="left">
 
-| Technology / Language | Projects |
+| Technology | Projects |
 |----------------------|---------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [![GitHub](https://img.shields.io/badge/Project1-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project1) <br> [![GitHub](https://img.shields.io/badge/Project2-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project2) |
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | [![GitHub](https://img.shields.io/badge/Project3-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project3) <br> [![GitHub](https://img.shields.io/badge/Project4-Repo-181717?logo=github&logoColor=000000)](https://github.com/Joerg1632/Project4) |
