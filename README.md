@@ -9,7 +9,7 @@ Computer Science student from Russia
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joerj9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632)
 
-
+<div align="left">
 <details>
   <summary>📊 GitHub Stats </summary>
   
