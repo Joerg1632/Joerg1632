@@ -18,4 +18,21 @@ Computer Science student from Russia
   
 </details>
 
+<details>
+  <summary>💼 Featured Projects (click to expand)</summary>
+
+<div align="left">
+
+### Python Projects
+- [Project1](https://github.com/Joerg1632/Project1) – A small script to automate tasks ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- [Project2](https://github.com/Joerg1632/Project2) – Data analysis project ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+### Java Projects
+- [Project3](https://github.com/Joerg1632/Project3) – Backend application ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- [Project4](https://github.com/Joerg1632/Project4) – GUI application ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
+</div>
+</details>
+
+
 </div>
