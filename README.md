@@ -25,7 +25,7 @@ Computer Science student from Russia
 
 | Technology | Projects |
 |----------------------|---------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/Project1) [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/Project2) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [![GitHub](https://img.shields.io/badge/-TgBot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/TgBot) [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/Project2) |
 | ![Java](https://img.shields.io/badge/-Java-FB7E1D?style=for-the-badge&logo=java&logoColor=white) | [![GitHub](https://img.shields.io/badge/-JavaLabs-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/JavaProject/tree/main) |
 | ![FastAPI](https://img.shields.io/badge/-FastAPI-9B59B6?style=for-the-badge&logo=fastapi&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/Project5) |
 | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | [![GitHub](https://img.shields.io/badge/-OPPprojects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/OPPprojects) |
