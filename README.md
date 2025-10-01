@@ -34,4 +34,5 @@ Computer Science student from Russia
 
 </div>
 </details>
+
 </div>
