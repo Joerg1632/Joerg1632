@@ -2,6 +2,8 @@
 
 # 👋 Hello! I'm Joerg  
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/> 
+
 Computer Science student from Russia  
 
 [![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/redpoo)
