@@ -21,9 +21,6 @@ Computer Science student from Russia
 <details>
   <summary>💼 Best Projects</summary>
 
-<details>
-  <summary>💼 Best Projects</summary>
-
 <div align="left">
 
 | Technology / Language | Projects |
