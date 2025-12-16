@@ -14,7 +14,7 @@ Computer Science student from Russia
   <br>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&hide=makefile,swig&layout=normal&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&hide=html,jupyter-notebook,makefile,swig&theme=tokyonight)
   
 </details>
 
