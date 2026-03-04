@@ -10,13 +10,14 @@ Computer Science student from Russia
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.vegner@g.nsu.ru)
 <div align="left">
 <details>
-  <summary>📊 Statistics </summary>
+  <summary>📊 Statistics</summary>
   <br>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&hide=html,jupyter%20notebook,makefile,swig&theme=tokyonight&cache_seconds=1)
-  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&layout=compact&theme=tokyonight" />
+
 </details>
+</div>
 
 <details>
   <summary>💼 Best Projects</summary>
