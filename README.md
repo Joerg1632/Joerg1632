@@ -14,9 +14,9 @@ Computer Science student from Russia
   <summary>📊 Statistics</summary>
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joerg1632&layout=compact&theme=tokyonight" />
 
 </details>
 
