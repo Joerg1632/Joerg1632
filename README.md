@@ -8,16 +8,19 @@ Computer Science student from Russia
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/368399838389207040)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joerj9)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.vegner@g.nsu.ru)
+📊 Statistics
+
+GitHub Stats Top Langs
+
 <div align="left">
 <details>
-  <summary>📊 Statistics</summary>
+  <summary>📊 Statistics </summary>
   <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&layout=compact&theme=tokyonight" />
-
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&hide=html,jupyter%20notebook,makefile,swig&theme=tokyonight&cache_seconds=1)
+  
 </details>
-</div>
 
 <details>
   <summary>💼 Best Projects</summary>
