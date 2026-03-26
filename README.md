@@ -13,11 +13,16 @@ Computer Science student from Russia
 <details>
   <summary>📊 Statistics</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&layout=compact&theme=tokyonight&exclude_repo=&hide=html,css" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joerg1632&layout=compact&theme=tokyonight" />
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&theme=tokyonight&hide=makefile,swag" />
+  </a>
 
 </details>
+</div>
 
 <details>
   <summary>💼 Best Projects</summary>
