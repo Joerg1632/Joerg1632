@@ -10,19 +10,21 @@ Computer Science student from Russia
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.vegner@g.nsu.ru)
 
 <div align="left">
-<details>
-  <summary>📊 Statistics</summary>
-  <br>
+  <details>
+    <summary>📊 Statistics</summary>
+    <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
-  <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&theme=tokyonight&hide=makefile,swag,swig,html" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
+    <br>
+    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&theme=tokyonight&hide=makefile,swag,swig,html" />
+    </a>
 
-</details>
+  </details>
 </div>
+
+<p align="left"></p>
 
 <details>
   <summary>💼 Best Projects</summary>
