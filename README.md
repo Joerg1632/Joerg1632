@@ -9,28 +9,27 @@ Computer Science student from Russia
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joerj9)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.vegner@g.nsu.ru)
 
+</div>
 <div align="left">
-  <details>
-    <summary>📊 Statistics</summary>
-    <br>
+<details>
+  <summary>📊 Statistics</summary>
+  <br>
 
-    <img src="https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
-    <br>
-    
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&theme=tokyonight&hide=makefile,swag,swig,html" />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Joerg1632&show_icons=true&theme=tokyonight" />
+  <br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joerg1632&theme=tokyonight&hide=makefile,swag,swig,html" />
+  </a>
 
-  </details>
+</details>
 </div>
 
-<p align="left"></p>
-
+<div align="left">
 <details>
   <summary>💼 Best Projects</summary>
-<br>
-<div align="left">
-
+  <br>
+  
 | Technology | Projects |
 |------------|---------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [![GitHub](https://img.shields.io/badge/-TgBot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/TgBot) [![GitHub](https://img.shields.io/badge/-ML-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/ML/tree/main) [![GitHub](https://img.shields.io/badge/-Database_labs-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/DatabaseLabs) [![GitHub](https://img.shields.io/badge/-AI_Agent-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/buildwise-ai/tree/main) [![GitHub](https://img.shields.io/badge/-DocStitcher-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joerg1632/DocStitcher)|
@@ -40,5 +39,3 @@ Computer Science student from Russia
 
 </div>
 </details>
-
-</div>
